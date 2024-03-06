@@ -1,8 +1,8 @@
 # Dolibarr language file - en_US - Accountancy (Double entries)
 Accountancy=Comptabilitat
 Accounting=Comptabilitat
-ACCOUNTING_EXPORT_SEPARATORCSV=Séparateur de colonnes pour le fichier exporté
-ACCOUNTING_EXPORT_DATE=Format de date pour le fichier d'export
+ACCOUNTING_EXPORT_SEPARATORCSV=Séparateur de colomnas entau fichèr exportat
+ACCOUNTING_EXPORT_DATE=Format de data entau fichèr d'export
 ACCOUNTING_EXPORT_PIECE=Exporter la référence de la pièce ?
 ACCOUNTING_EXPORT_GLOBAL_ACCOUNT=Exporter avec les lignes regroupées ?
 ACCOUNTING_EXPORT_LABEL=Exporter le libellé
