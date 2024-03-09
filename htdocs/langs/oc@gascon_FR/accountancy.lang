@@ -53,27 +53,27 @@ ExportAccountingSourceDocHelp=Dab aquera atruna, que podetz recercar e exportar 
 ExportAccountingSourceDocHelp2=Entà exportar los vòstes jornaus, qu'utilizatz - %l'entrada de menut %s s .
 ExportAccountingProjectHelp=Qu'especificatz un projècte si avetz besonh d'un rapòrt unicament entà un projècte especific. Las nòtas de fresc e los remborsaments de prèst ne son pas includits dens los rapòrts de projècte.
 ExportAccountancy=Export comptabilitat
-WarningDataDisappearsWhenDataIsExported=Attention, cette liste ne contient que les écritures comptables qui n'ont pas encore été exportées (la date d'export est vide). Si vous souhaitez inclure les écritures comptables déjà exportées, cliquez sur le bouton ci-dessus.
-VueByAccountAccounting=Vue par comptes comptables
-VueBySubAccountAccounting=Affichage par compte auxiliaire
+WarningDataDisappearsWhenDataIsExported=Atencion, aquera lista ne contien pas que las escrituras comptablas qui son pas enqüèra estadas exportadas (la data d'export qu'ei vueida). Si desiratz includir las escrituras comptablas dejà exportadas, que clicatz suu boton ací dessús .
+VueByAccountAccounting=Vista per comptes comptables
+VueBySubAccountAccounting=Afichatge per compte auxiliar
 
-MainAccountForCustomersNotDefined=Compte comptable général pour les clients non défini dans la configuration
-MainAccountForSuppliersNotDefined=Compte comptable général pour les fournisseurs non défini dans la configuration
-MainAccountForUsersNotDefined=Compte comptable général pour les utilisateurs non défini dans la configuration
-MainAccountForVatPaymentNotDefined=Compte comptable général pour les paiements de TVA non défini dans la configuration
-MainAccountForSubscriptionPaymentNotDefined=Compte comptable général pour les paiements d'adhésion non défini dans la configuration
-MainAccountForRetainedWarrantyNotDefined=Compte comptable par défaut pour la retenue de garantie non défini dans le paramétrage
-UserAccountNotDefined=Compte comptable pour l'utilisateur non défini dans la configuration
+MainAccountForCustomersNotDefined=Compte comptable generau entaus clients non definit dens la configuracion
+MainAccountForSuppliersNotDefined=Compte comptable generau entaus hornidors non definit dens la configuracion
+MainAccountForUsersNotDefined=Compte comptable generau entaus utilizators non definit dens la configuracion
+MainAccountForVatPaymentNotDefined=Compte comptable generau entaus pagaments de TVA non definit dens la configuracion
+MainAccountForSubscriptionPaymentNotDefined=Compte comptable generau entaus pagaments d'adesion non definit dens la configuracion
+MainAccountForRetainedWarrantyNotDefined=Compte comptabla per defaut entà la retienuda de garantida non definit dens lo paramétrage
+UserAccountNotDefined=Compte comptable entà l'utilizator non definit dens la configuracion
 
-AccountancyArea=Espace comptabilité
-AccountancyAreaDescIntro=L'utilisation du module de comptabilité se fait en plusieurs étapes:
-AccountancyAreaDescActionOnce=Les actions suivantes sont habituellement exécutées une seule fois, ou une fois par an ...
-AccountancyAreaDescActionOnceBis=Les prochaines étapes doivent être faites pour vous faire gagner du temps à l'avenir en vous proposant automatiquement le bon compte comptable par défaut lors de la ventilation (écrire des enregistrements dans les journaux et grand livre)
-AccountancyAreaDescActionFreq=Les actions suivantes sont habituellement exécutées chaque mois, semaine, ou jour pour les très grandes entreprises ...
+AccountancyArea=Qu'espàcia comptabilitat
+AccountancyAreaDescIntro=L'utilizacion deu module de comptabilitat que's hè en mantua estapa :
+AccountancyAreaDescActionOnce=Las accions seguentas que son abituaument executadas un sol còp, o un còp per an ...
+AccountancyAreaDescActionOnceBis=Las estapas vienentas que deven estar hèitas entà vse har ganhar temps a l'aviéner en vse prepausant automaticament lo bon compte comptable per defaut pendent la ventilacion (escríver enregistraments dens los jornaus e gran libe)
+AccountancyAreaDescActionFreq=Las accions seguentas que son abituaument executadas cada mes, setmana, o dia entà las plan granas enterpresas ...
 
-AccountancyAreaDescJournalSetup=Étape %s : Créer ou vérifier le contenu de la liste des journaux depuis le menu %s
-AccountancyAreaDescChartModel=Étape %s : Vérifiez qu'il existe un modèle de plan comptable ou créez-en un à partir du menu %s
-AccountancyAreaDescChart=Étape %s : Sélectionnez et | ou complétez votre plan de compte dans le menu %s
+AccountancyAreaDescJournalSetup=Estapa %s : Crear o verificar lo contienut de la lista deus jornaus despuish lo menut %s
+AccountancyAreaDescChartModel=Estapa %s : Verificatz qu'existeish un modèle de plan comptable o creatz-ne un a partir deu menut %s
+AccountancyAreaDescChart=Estapa %s : Seleccionatz e | o completatz lo vòste plan de compte dens lo menut %s
 
 AccountancyAreaDescFiscalPeriod=Étape %s: Définissez un exercice par défaut sur lequel intégrer vos entrées en comptabilité. Pour cela, utilisez l'entrée de menu %s.
 AccountancyAreaDescVat=Étape %s : Définissez les comptes comptables de chaque taux de TVA utilisé. Pour cela, suivez le menu suivant %s.
